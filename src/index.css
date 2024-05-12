@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: "Ubuntu Sans", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 80%;
+  }
+}
+@media screen and (min-width: 1600px) {
+  html {
+    font-size: 120%;
+  }
+}

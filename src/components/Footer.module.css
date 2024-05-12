@@ -1,0 +1,33 @@
+footer {
+  display: flex;
+  margin-top: 0.5rem;
+  color: #000;
+  background-color: #CAF0F8;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100vw;
+  font-weight: 600;
+  height: 30px;
+}
+
+footer span {
+  font-size: 1.3rem;
+  margin: 1rem 0;
+}
+
+a {
+  cursor: pointer;
+}
+
+footer img {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.githubLogo {
+  border-radius: 50%;
+}
